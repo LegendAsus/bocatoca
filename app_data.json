@@ -21,6 +21,11 @@
         "popppy/19.jpg"
     ],
     "live_wallpapers": [
+
+          {
+            "video": "live_wallpapers/1.mp4",
+            "thumbnail": "live_wallpapers/1.png"
+        },
         {
             "video": "live_wallpapers/2.mp4",
             "thumbnail": "live_wallpapers/2.png"
@@ -40,27 +45,8 @@
         {
             "video": "live_wallpapers/6.mp4",
             "thumbnail": "live_wallpapers/6.png"
-        },
-        {
-            "video": "live_wallpapers/7.mp4",
-            "thumbnail": "live_wallpapers/7.png"
-        },
-        {
-            "video": "live_wallpapers/8.mp4",
-            "thumbnail": "live_wallpapers/8.png"
-        },
-        {
-            "video": "live_wallpapers/9.mp4",
-            "thumbnail": "live_wallpapers/9.png"
-        },
-        {
-            "video": "live_wallpapers/10.mp4",
-            "thumbnail": "live_wallpapers/10.png"
-        },
-        {
-            "video": "live_wallpapers/11.mp4",
-            "thumbnail": "live_wallpapers/11.png"
         }
+  
     ],
     "keyboards": [
         "keyboards/1.jpg",
